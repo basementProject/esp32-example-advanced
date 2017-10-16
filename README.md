@@ -1,1 +1,7 @@
-# esp32-ArkPos2 test v0.1
+# esp32 advance test 
+Includes :
+Deep Sleep, 
+Wifi,
+Bleutooth Low Energy,
+Touch Sensors Implementation,
+Update OTA
